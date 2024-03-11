@@ -2,7 +2,7 @@
 ## My name is Renzo and my nickname is "Renzo"!
 
 - 📖 I'm a computer science student at Universidade Federal de Pelotas.
-- 🌱 I’m currently learning C, Rust and Java.
+- 🌱 I’m currently learning C and Python, mostly.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
